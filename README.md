@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kalmbach.jr@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/joaquinrk/](https://www.linkedin.com/in/joaquinrk/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/jrk-data/](https://www.linkedin.com/in/jrk-data/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
