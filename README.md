@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joaquín Rodríguez Kalmbach</h1>
 <h3 align="center">A passionate Data Analyst with aspirations for Data Engineering and Data Science from Argentina</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrk-data" alt="jrk-data" /></a> </p>
-
 - 🌱 I’m currently studying **the master's degree in Data Mining at the Faculty of Exact Sciences and Natural Sciences of the University of Buenos Aires.**
 
 - 💬 Ask me about **ETL flows using GCP tools, data visualization with Looker Studio and process automation with Python.**
